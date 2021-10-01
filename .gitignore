@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 config.py
+config1.py
 API_practice.ipynb
 random_numbers.ipynb
 __pycache__/
